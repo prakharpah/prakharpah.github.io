@@ -6,16 +6,16 @@ entries:
     created: "2021-09-17T15:37:02.568626097+01:00"
     dependencies:
     - name: pages-api
-      repository: https://prakharpah.github.io/
+      repository: http://localhost:8080
       version: 1.x.x
     - name: mysql
-      repository: https://prakharpah.github.io/
+      repository: http://localhost:8080
       version: 1.x.x
     description: A Helm chart for Pages Application
     digest: d7da52fe419784a819aec47162fecba8c12e10b3a8e881ade49afccd4d50a685
     name: pages
     type: application
     urls:
-    - pages-1.0.0.tgz
+    - https://prakharpah.github.io/pages-1.0.0.tgz
     version: 1.0.0
 generated: "2021-09-17T15:37:02.567306381+01:00"
